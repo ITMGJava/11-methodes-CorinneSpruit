@@ -15,6 +15,8 @@ static String gebruiker;
 
         groet(naam);
 
+
+
     }
 
     private static void groet(String naam) {
